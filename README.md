@@ -7,6 +7,6 @@
 - 🤔 I’m looking for help with Mobile Automation
 - 💬 Ask me about Selenium/TestNG/Robot Framework
 - 📫 How to reach me: najeeb.capricorn@gmail.com
-<--! - 😄 Pronouns: ...
+<!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: abc
-->
+-->

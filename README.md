@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on Test Automation (Specifically Cypress)
+- 🔭 I’m currently working on Test Automation (Specifically TestCafe)
 - 👯 I’m looking to collaborate on Test Automation
 - 🤔 I’m looking for help with Mobile Automation
-- 💬 Ask me about Selenium/TestNG/Robot Framework/Maven
+- 💬 Ask me about Selenium/TestNG/Robot Framework/Maven/Cypress
 - 📫 How to reach me: najeeb.capricorn@gmail.com
 <!-- 
 - 🌱 I’m currently learning ...

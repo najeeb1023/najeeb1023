@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on Test Automation (Cypress - TypeScript)
+- 🔭 I’m currently working on Test Automation (PlayWright - TypeScript)
 - 👯 I’m looking to collaborate on Test Automation
 - 🤔 I’m looking for help with Mobile Automation
 - 💬 Ask me about Selenium/TestNG/Robot Framework/Maven/Cypress

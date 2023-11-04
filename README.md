@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on Test Automation (Playwright - TypeScript)
-- 👯 I’m looking to collaborate on Test Automation (Cypress, Playwright)
-- 🤔 I’m looking for help with Playwright
-- 💬 Ask me about Selenium/TestNG/Robot Framework/Cypress
+- 🔭 I’m currently working on Test Automation with BDD approach (Playwright, Cucumber - TypeScript)
+- 👯 I’m looking to collaborate on Test Automation (Selenium, Cucumber, Cypress, Playwright)
+- 🤔 I’m looking for help with Web Elements
+- 💬 Ask me about Selenium/TestNG/Playwright/Cypress
 - 📫 How to reach me: najeeb.capricorn@gmail.com
 <!-- 
 - 🌱 I’m currently learning ...

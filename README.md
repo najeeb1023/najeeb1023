@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Test Automation with BDD approach (Playwright, Cucumber - TypeScript)
 - 👯 I’m looking to collaborate on Test Automation (Selenium, Cucumber, Cypress, Playwright)
-- 🤔 I’m looking for help with Web Elements
+- 🤔 I’m looking for to collaborate
 - 💬 Ask me about Selenium/TestNG/Playwright/Cypress
 - 📫 How to reach me: najeeb.capricorn@gmail.com
 <!-- 

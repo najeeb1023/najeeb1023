@@ -12,5 +12,5 @@
 - ⚡ Fun fact: abc
 -->
 
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=najeeb1023)](https://git.io/streak-stats)
 <img src="https://github-readme-stats.vercel.app/api?username=najeeb1023&theme=tokyonight&show_icons=true">

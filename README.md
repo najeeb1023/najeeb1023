@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on Test Automation with BDD approach (Playwright, Cucumber - TypeScript)
-- 👯 I’m looking to collaborate on Test Automation (Selenium, Cucumber, Cypress, Playwright)
-- 🤔 I’m looking to collaborate
-- 💬 Ask me about Selenium/TestNG/Playwright/Cypress
+- 🔭 I’m currently working on Test Automation with BDD approach -> [Playwright, Cucumber - TypeScript](https://github.com/najeeb1023/parabank-automation).
+- 👯 I’m looking to collaborate on Test Automation (Selenium, Cucumber, Cypress, Playwright - TS).
+- 🤔 I’m looking to collaborate.
+- 💬 Ask me about Selenium/TestNG/Playwright/Cypress.
 - 📫 How to reach me: najeeb.capricorn@gmail.com
 <!-- 
 - 🌱 I’m currently learning ...

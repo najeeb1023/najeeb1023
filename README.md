@@ -5,8 +5,8 @@
 - 👯 I’m looking to collaborate on Test Automation (Selenium, Cucumber, Cypress, Playwright - TS).
 - 🤔 I’m looking to collaborate.
 - 💬 Ask me about Selenium/TestNG/Playwright/Cypress.
-- 📫 How to reach me: najeeb.capricorn@gmail.com
 <!-- 
+- 📫 How to reach me: najeeb.capricorn@gmail.com
 - 🌱 I’m currently learning ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: abc

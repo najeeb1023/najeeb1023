@@ -1,16 +1,16 @@
 ### Hi there 👋
 
+- 🔭 I'm currently working on Test Automation with BDD approach -> [Playwright, Cucumber - TypeScript](https://github.com/najeeb1023/magento-webapp).
+- 🚀 I just open-sourced [testpilot-reporter](https://github.com/najeeb1023/testpilot-reporter) — an AI-powered Cucumber test reporter for QA engineers.
+- 👯 I'm looking to collaborate on Test Automation (Selenium, Cucumber, Cypress, Playwright - TS).
+- 💬 Ask me about Selenium / TestNG / Playwright / Cypress.
 
-- 🔭 I’m currently working on Test Automation with BDD approach -> [Playwright, Cucumber - TypeScript](https://github.com/najeeb1023/magento-webapp).
-- 👯 I’m looking to collaborate on Test Automation (Selenium, Cucumber, Cypress, Playwright - TS).
-- 🤔 I’m looking to collaborate.
-- 💬 Ask me about Selenium/TestNG/Playwright/Cypress.
-<!-- 
-- 📫 How to reach me: najeeb.capricorn@gmail.com
-- 🌱 I’m currently learning ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: abc
--->
+---
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-najeebcaprb-yellow?logo=buy-me-a-coffee&logoColor=white)](https://buymeacoffee.com/najeebcaprb)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gul%20Najeeb%20Channa-blue?logo=linkedin)](https://www.linkedin.com/in/gul-najeeb-channa/)
+
+---
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=najeeb1023&theme=radical&card_width=468)](https://git.io/streak-stats)
 <img src="https://github-readme-stats.vercel.app/api?username=najeeb1023&theme=tokyonight&show_icons=true">
